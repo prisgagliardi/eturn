@@ -1,0 +1,111 @@
+if "0" 
+{
+show("space")
+}
+if "2"
+{ 
+show("A")
+}
+if "22" 
+{
+show("B")
+}
+if "222" 
+{
+show("C")
+}
+if "3" 
+{
+show("D")
+}
+if "33" 
+{
+show("E")
+}
+if "333" 
+{
+show("F")
+}
+if "4" 
+{
+show("G")
+}
+if "44" 
+{
+show("H")
+}
+if "444" 
+{
+show("I")
+}
+if "5" 
+{
+show("J")
+}
+if "55" 
+{
+show("K")
+}
+if "555" 
+{
+show("L")
+}
+if "6" 
+{
+show("M")
+}
+if "66" 
+{
+show("N")
+}
+if "666" 
+{
+show("O")
+}
+if "7" 
+{
+show("P")
+}
+if "77" 
+{
+show("Q")
+}
+if "777" 
+{
+show("R")
+}
+if "7777" 
+{
+show("S")
+}
+if "8" 
+{
+show("T")
+}
+if "88" 
+{
+show("U")
+}
+if "888" 
+{
+show("V")
+}
+if "9" 
+{
+show("W")
+}
+if "99" 
+{
+show("X")
+}
+if "999" 
+{
+show("Y")
+}
+if "9999" 
+{
+show("Z")
+}
+
+ETURN WEB E SOFTWARE SOLUTION 
+
